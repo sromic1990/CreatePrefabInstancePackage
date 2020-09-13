@@ -1,0 +1,16 @@
+{
+    "name": "com.sourav.createprefabinstance",
+    "displayName": "Sourav CreatePrefab Package",
+    "version": "1.0.0",
+    "unity": "2018.3",
+    "description": "A package that creates a prefab in the scene based on a path in the Resources folder.",
+    "author": {
+        "name": "Sourav Chatterjee",
+        "email": "sromic@gmail.com"
+    },
+    "keywords": [
+        "CreatePrefab",
+        "Unity",
+        "Sourav"
+      ]
+}
